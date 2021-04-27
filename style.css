@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+<style>
+a:link {
+  color: green;
+  background-color: white;
+   color: green;
+  background-color: white;
+  text-decoration: underline;
+   background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:visited {
+  color: green;
+  background-color: white;
+  text-decoration: none;
+  
+}
+
+a:hover {
+  color: green;
+  background-color: white;
+  text-decoration: underline;
+   background-color: red;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:active {
+  color: gray;
+  background-color: white;
+  text-decoration: underline;
+}
+</style>
